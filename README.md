@@ -16,7 +16,7 @@ A few things this project aimed to improve
 
 3.*Ensure all links function correctly* 
 
-
+Now that the code has been refactored when the client views the source code they will find semantic HTML elements. When the structure of HTML elements is viewed they will find that the elements follow a more logical structure independent of styling and positioning. Also now when the client views all icon and image elements they will find accessible alt attributes. These are just a few of many solutions we have solved with this project ! 
 ## Deployed Site
 
 http://127.0.0.1:5500/index.html
