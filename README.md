@@ -15,3 +15,8 @@ A few things this project aimed to improve
 2.*Consolidating CSS selectors and properties*
 
 3.*Ensure all links function correctly* 
+
+
+## Deployed Site
+
+http://127.0.0.1:5500/index.html
